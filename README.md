@@ -67,5 +67,9 @@ Options:
     # Eg. 1.5
 ```
 
+## FAQ
+#### I want to process existing Rivals of Aether sprites. What size do I choose to avoid rescaling?
+The target average size is 30 pixels, so setting avg_char_height to 30 will result in no scaling.
+
 ## Contact
 If something is broken or confusing, you can raise an issue in github or contact me at Qazzquimby#0073 on discord.
