@@ -6,6 +6,10 @@ Any game's sprites go in, some quick Rivals of Aether sprites come out.
 
 It's meant to be a good starting point for porting existing characters over, and cut down on the development time for sprites.
 
+## Existing content
+Already processed sprites can be found [here](https://mega.nz/#F!px8w3KTQ!HvGsOg6-LB0HdkI1UomC_w)
+If you have a substantial sprite repository to add, please contact me  to add it.
+
 ## Usage
 Though all the code is released available, only the dist directory is required for use.
 
@@ -62,10 +66,6 @@ Options:
     # Scales the sprites color saturation by the given amount.
     # Eg. 1.5
 ```
-
-## Existing content
-Already processed sprites can be found [here](https://mega.nz/#F!px8w3KTQ!HvGsOg6-LB0HdkI1UomC_w)
-If you have a substantial sprite repository to add, please contact me  to add it.
 
 ## Contact
 If something is broken or confusing, you can raise an issue in github or contact me at Qazzquimby#0073 on discord.
